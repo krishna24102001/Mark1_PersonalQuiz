@@ -14,16 +14,16 @@ var questionbank =[{
   question:"Where does he live? ",
   answer:"Mumbai"
 },{
-  question:"Where would he go for a trip? ",
+  question:"Where would Krishna love to go for a trip? ",
   answer:"Goa"
 },{
-  question:"Whats his age? ",
+  question:"What's his age? ",
   answer:"21"
 },{
-  question:"What sport does he play? ",
+  question:"What sport does Krishna play? ",
   answer:"Football"
 },{
-  question:"What art does he follow? ",
+  question:"What art does Krishna follow? ",
   answer:"Music"
 }]
 
